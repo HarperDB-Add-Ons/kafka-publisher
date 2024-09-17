@@ -1,0 +1,9 @@
+{
+  "name": "kafka-publisher",
+  "version": "1.0.0",
+  "description": "Publish changes to a HarperDB table to a kafka stream",
+  "type": "module",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
